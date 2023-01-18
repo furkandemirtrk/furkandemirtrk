@@ -2,7 +2,7 @@
 
 
 [![Linkedin: furkan-demirturk](https://img.shields.io/badge/-furkandemirturk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/furkan-demirturk/)](https://www.linkedin.com/in/furkan-demirturk/)
-[![GitHub furkandemirtrk](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/furkandemirtrk)
+[![GitHub furkandemirtrk](https://img.shields.io/github/followers/furkandemirtrk?label=follow&style=social)](https://github.com/furkandemirtrk)
 
 <img align="right" width="325" alt="" src="https://raw.githubusercontent.com/furkandemirtrk/furkandemirtrk/main/coder.gif" />
 
