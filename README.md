@@ -1,7 +1,7 @@
 ### <h2> Hi, I'm Furkan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-[![Linkedin: furkan-demirturk](https://img.shields.io/badge/-furkandemirturk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/furkan-demirturk/)](https://www.linkedin.com/in/furkan-demirturk/)
+[![Linkedin: furkan-demirturk](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/furkan-demirturk/)](https://www.linkedin.com/in/furkan-demirturk/)
 [![GitHub furkandemirtrk](https://img.shields.io/github/followers/furkandemirtrk?label=follow&style=social)](https://github.com/furkandemirtrk)
 
 <img align="right" width="325" alt="" src="https://raw.githubusercontent.com/furkandemirtrk/furkandemirtrk/main/coder.gif" />
